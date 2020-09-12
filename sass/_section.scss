@@ -40,3 +40,8 @@ section {
     background-image: url("https://picsum.photos/800/600?random=4");
   }
 }
+
+.section-dark {
+  background-color: $secondaryColor !important;
+  color: $primaryColor !important;
+}
