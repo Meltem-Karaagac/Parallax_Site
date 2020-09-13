@@ -454,5 +454,9 @@ section:nth-of-type(7) {
 .night1{
   color: white;
   visibility: visible;
- 
+}
+
+.toggle{
+  padding-top:10px;
+  margin-left:1.5rem;
 }
