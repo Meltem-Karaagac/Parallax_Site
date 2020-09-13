@@ -440,3 +440,19 @@ section:nth-of-type(7) {
 }
 
 /*# sourceMappingURL=style.css.map */
+.day{
+  color: black; 
+  visibility: visible;
+
+}
+.day1{
+  visibility: hidden;
+}
+.night{
+  visibility: hidden;
+}
+.night1{
+  color: white;
+  visibility: visible;
+ 
+}
